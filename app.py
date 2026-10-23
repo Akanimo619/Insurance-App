@@ -101,7 +101,7 @@ if os.path.exists(".git"):
     BACKEND_URL = "http://127.0.0.1:8000"
 else:
     # REPLACE with your real Render Live Web Service URL string after deployment!
-    BACKEND_URL = "https://onrender.com"
+    BACKEND_URL = "https://insurance-app-w9r8.onrender.com"
 
 # ========================================================
 # 3. INTERACTIVE ACTUARIAL CONTROL PANEL (SIDEBAR inputs)
